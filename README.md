@@ -10,11 +10,12 @@
 
 ## Installation <a name="installation"></a>
 
-pandas
-numpy 
+pandas  
+numpy  
 seaborn 
-matplotlib
-plotly, You can install using from your command promt as pip install pip or get it from [here](https://plotly.com/python/getting-started/)
+matplotlib  
+plotly,  
+You can install using from your command promt as pip install pip or get it from [here](https://plotly.com/python/getting-started/)
 
 ## Project Motivation<a name="motivation"></a>
 
