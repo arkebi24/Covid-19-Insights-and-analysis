@@ -39,7 +39,7 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the medium [post]() available
+The main findings of the code can be found at the medium [post](https://medium.com/@riteshbehera123/covid-19-some-insights-analysis-on-its-transmission-rate-160cf43970fc) available
 
 
 
