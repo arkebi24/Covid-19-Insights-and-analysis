@@ -1,4 +1,4 @@
-#It is recommended to see the notebook ipynb with
+# It is recommended to see the notebook's ipynb file [here](https://nbviewer.jupyter.org/github/arkebi24/Covid-19-Insights-and-analysis/blob/4cb55e050716fab4eb51b6f7f2789c46fc1378b2/covid-19analysis.ipynb) with nbviewr
 
 ### Table of Contents
 
