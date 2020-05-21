@@ -49,10 +49,10 @@ The main findings of the code can be found at the medium [post](https://medium.c
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to kagglers for so many ideas and data. Feel free to use the code here as you would like!
-<<<<<<< HEAD
 
-##NOTE:
+## NOTE:
 filling missing values with zeroes
-REASON: missing values are filled with zeroes because Province/State is a categorical feature and also
-We are not feeding this data to any Machine Learning Model so this won't create any bias in the analysis
+ ### REASON: 
+  Missing values are filled with zeroes because Province/State is a categorical feature and also
+  We are not feeding this data to any Machine Learning Model so this won't create any bias in the analysis
 
