@@ -1,3 +1,5 @@
+# It is recommended to see the notebook's ipynb file [here](https://nbviewer.jupyter.org/github/arkebi24/Covid-19-Insights-and-analysis/blob/4cb55e050716fab4eb51b6f7f2789c46fc1378b2/covid-19analysis.ipynb) with nbviewer
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -8,11 +10,12 @@
 
 ## Installation <a name="installation"></a>
 
-pandas
-numpy 
+pandas  
+numpy  
 seaborn 
-matplotlib
-plotly, You can install using from your command promt as pip install pip or get it from [here](https://plotly.com/python/getting-started/)
+matplotlib  
+plotly,  
+You can install using from your command promt as pip install pip or get it from [here](https://plotly.com/python/getting-started/)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -39,15 +42,17 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the medium [post]() available
+The main findings of the code can be found at the medium [post](https://medium.com/@riteshbehera123/covid-19-some-insights-analysis-on-its-transmission-rate-160cf43970fc) available
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to kagglers for so many ideas and data. Feel free to use the code here as you would like!
+<<<<<<< HEAD
 
 ##NOTE:
 filling missing values with zeroes
 REASON: missing values are filled with zeroes because Province/State is a categorical feature and also
 We are not feeding this data to any Machine Learning Model so this won't create any bias in the analysis
+
